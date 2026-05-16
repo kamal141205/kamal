@@ -14,4 +14,3 @@ plot <- boxplot(mtcars$mpg,
                 col  ="#8B0000")
 IQR <- IQR(mtcars$mpg)
 #MEMBUAT BRANCH
-
