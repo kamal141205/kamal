@@ -12,4 +12,3 @@ plot <- boxplot(mtcars$mpg,
                 ylab = "Miles per Gallon",
                 xlab ="No. of Cylinders",
                 col  ="#8B0000")
-IQR <- IQR(mtcars$mpg)
